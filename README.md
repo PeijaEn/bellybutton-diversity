@@ -8,7 +8,9 @@ This is the base dashboard before the deliverable 4 customizations -
 ![image](https://github.com/PeijaEn/bellybutton-diversity/blob/main/Module%2012%20Dashboard.png?raw=true)
 
 This is the dashboard after the deliverable 4 customizations.
-![image]()
+![image](https://github.com/PeijaEn/bellybutton-diversity/blob/main/mod%2013%20customized.png?raw=true)
+
+I changed the background image, the bg-dark for the button, and the text colors
 
 ### Conclusion
-The app overall is powerful and could be used in a variety of ways. Knowing how to read in JSON files and making an interactive website that manipulates the data. I've also gotten much more comfortable with html as well as Javascript. 
+The app overall is powerful and could be used in a variety of ways. Knowing how to read in JSON files and making an interactive website that manipulates the data. I've also gotten much more comfortable with html as well as Javascript. Another thing to add is with more time, the HTML could be fleshed out and better looking.
